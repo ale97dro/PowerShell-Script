@@ -28,3 +28,7 @@ When you finish, if you want to restore the original status, you can run this:
 If you want to see the current status of the ExecutionPolicy, you can run this:
 
 	`Get-ExecutionPolicy`
+	
+```
+Give an example
+```
