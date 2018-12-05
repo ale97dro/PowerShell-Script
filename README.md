@@ -1,4 +1,4 @@
-#PowerShell Tools
+# PowerShell Tools
 A collection of small PowerShell tools.
 
 List of tools in the collection:
@@ -11,7 +11,7 @@ List of tools in the collection:
 	</li>
 </ul>
 
-##Enable PowerShell scripts
+## Enable PowerShell scripts
 
 If you want to execute PowerShell scripts, you have to enable your computer to do it.
 
