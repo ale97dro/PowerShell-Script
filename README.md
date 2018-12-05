@@ -1,7 +1,7 @@
 # PowerShell Tools
 A collection of small PowerShell tools.
 
-* List of tools in the collection:
+List of tools in the collection:
  
 	* CreateIndex.ps1
 	* extract_from_folders.ps1
