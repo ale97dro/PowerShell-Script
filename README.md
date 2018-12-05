@@ -1,15 +1,10 @@
 # PowerShell Tools
 A collection of small PowerShell tools.
 
-List of tools in the collection:
-<ul>
-	<li>
-		CreateIndex.ps1
-	</li>
-	<li>
-		extract_from_folders.ps1
-	</li>
-</ul>
+* List of tools in the collection:
+ 
+	* CreateIndex.ps1
+	* extract_from_folders.ps1
 
 ## Enable PowerShell scripts
 
