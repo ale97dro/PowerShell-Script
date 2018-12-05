@@ -29,6 +29,6 @@ If you want to see the current status of the ExecutionPolicy, you can run this:
 
 	`Get-ExecutionPolicy`
 	
-```
-Give an example
-```
+	```
+	Give an example
+	```
