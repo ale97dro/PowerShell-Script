@@ -13,3 +13,10 @@ List of tools in the collection:
 
 <h2>Enable PowerShell scripts</h2>
 
+If you want to execute PowerShell scripts, you have to enable your computer to do it.
+Open a new PowerShell console as Administrator and run the following command line:
+	<b>Set-ExecutionPolicy unrestricted</b>
+When you finish, if you want to restore the original status, you can run this:
+	<b>Set-ExecutionPolicy restricted</b>
+If you want to see the current status of the ExecutionPolicy, you can run this:
+	<b>Get-ExecutionPolicy</b>

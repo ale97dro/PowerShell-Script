@@ -17,11 +17,3 @@ else
 {
 	echo "Error: wrong arguments number"
 }
-
-
-
-
-
-#Set-ExecutionPolicy unrestricted
-
-#Get-ExecutionPolicy
