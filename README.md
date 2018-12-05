@@ -1,4 +1,4 @@
-<h1>PowerShell Tools</h1>
+#PowerShell Tools
 A collection of small PowerShell tools.
 
 List of tools in the collection:
@@ -11,15 +11,13 @@ List of tools in the collection:
 	</li>
 </ul>
 
-<h2>Enable PowerShell scripts</h2>
+##Enable PowerShell scripts
 
 If you want to execute PowerShell scripts, you have to enable your computer to do it.
 
 Open a new PowerShell console as Administrator and run the following command line:
 
-	`powershell
-	Set-ExecutionPolicy unrestricted
-	`
+	`Set-ExecutionPolicy unrestricted` ciao
 
 When you finish, if you want to restore the original status, you can run this:
 
