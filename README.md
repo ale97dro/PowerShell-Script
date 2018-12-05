@@ -2,8 +2,8 @@
 A collection of small PowerShell tools.
 
 List of tools in the collection:
-* CreateIndex.ps1
-* extract_from_folders.ps1
+* [CreateIndex.ps1](https://github.com/ale97dro/PowerShell-Script/blob/master/script/CreateIndex.ps1)
+* [extract_from_folders.ps1](https://github.com/ale97dro/PowerShell-Script/blob/master/script/extract_from_folders.ps1)
 
 ## Enable PowerShell scripts
 
