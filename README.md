@@ -19,16 +19,21 @@ Open a new PowerShell console as Administrator and run the following command lin
 
 	```
 	Set-ExecutionPolicy unrestricted
+	
 	```
 
 When you finish, if you want to restore the original status, you can run this:
 
 	```
+	
 	Set-ExecutionPolicy restricted
+	
 	```
 	
 If you want to see the current status of the ExecutionPolicy, you can run this:
 
 	```
+	
 	Get-ExecutionPolicy
+	
 	```
