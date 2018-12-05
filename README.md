@@ -17,7 +17,9 @@ If you want to execute PowerShell scripts, you have to enable your computer to d
 
 Open a new PowerShell console as Administrator and run the following command line:
 
-	` Set-ExecutionPolicy unrestricted ` ciao
+	```
+	Set-ExecutionPolicy unrestricted 
+	```
 
 When you finish, if you want to restore the original status, you can run this:
 
