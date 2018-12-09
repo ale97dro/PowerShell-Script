@@ -1,4 +1,4 @@
-# PowerShell-Script ![script 24](https://user-images.githubusercontent.com/25732860/49698134-23efa280-fbc0-11e8-93a2-223f11ce388d.png)
+# PowerShell-Scripts ![script 24](https://user-images.githubusercontent.com/25732860/49698134-23efa280-fbc0-11e8-93a2-223f11ce388d.png)
 A collection of small PowerShell tools.
 
 List of tools in the collection:
