@@ -1,4 +1,4 @@
-# PowerShell Tools
+# PowerShell Tools ![script 24](https://user-images.githubusercontent.com/25732860/49698134-23efa280-fbc0-11e8-93a2-223f11ce388d.png)
 A collection of small PowerShell tools.
 
 List of tools in the collection:
@@ -20,3 +20,7 @@ When you finish, if you want to restore the original status, you can run this:
 If you want to see the current status of the ExecutionPolicy, you can run this:
 
 `Get-ExecutionPolicy`
+
+## Icon Credit
+
+Icon made by [Eucalyp](https://www.flaticon.com/authors/eucalyp) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)
